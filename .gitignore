@@ -1,17 +1,19 @@
-# Node modules
+# Ignore node_modules for both backend and frontend
 node_modules/
+musics/node_modules/
 
-# Logs
+
+# Ignore logs
 logs/
 *.log
 
-# Build files
+# Ignore build files
 dist/
 build/
 
-# IDE/Editor files
+# Ignore IDE/Editor files
 .vscode/
 .idea/
 
-# OS generated files
+# Ignore OS generated files
 .DS_Store
